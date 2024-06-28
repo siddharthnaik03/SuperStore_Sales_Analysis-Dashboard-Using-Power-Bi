@@ -1,1 +1,2 @@
-# SuperStore_Sales_Analysis-Dashboard-Using-Power-Bi
+# SuperStore_Sales_Analysis-Dashboard-Using-Power-Bi![SuperStoreSales_Analysis_Screenshot](https://github.com/siddharthnaik03/SuperStore_Sales_Analysis-Dashboard-Using-Power-Bi/assets/173901732/0610e4b5-be77-4969-a02b-c524e07ebcf8)
+![SuperstoreSales_Forecast_Screenshot](https://github.com/siddharthnaik03/SuperStore_Sales_Analysis-Dashboard-Using-Power-Bi/assets/173901732/b96ba4e8-0bfc-4352-bd34-187d94ecc247)
