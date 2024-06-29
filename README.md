@@ -26,7 +26,7 @@ The main goal of this project is to support the success of a business through th
    Examine the overall sales figures based on product category and geographic location, offering valuable perspectives on the distribution of sales among various categories and regions.
 
 7. #### Sales Forecasting:
-   By utilizing past data, we employ time series analysis methods to produce precise sales predictions for the upcoming 30 days. This predictive analysis aids in effectively organizing 
+   By utilizing past data, we employ time series analysis methods to produce precise sales predictions for the upcoming 30 days. This predictive analysis aids in effectively organizing
    inventory, staffing, and resources.
 
 
