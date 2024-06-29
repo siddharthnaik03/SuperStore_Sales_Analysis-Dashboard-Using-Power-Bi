@@ -14,16 +14,16 @@ The main goal of this project is to support the success of a business through th
    Analyze the overall sales figures in comparison to the sales from the corresponding period in the previous year, emphasizing any increase or decrease in sales.
    
 3. #### Profit Comparison Analysis:
- Analyze the overall sales figures in comparison to the profit from the corresponding period in the previous year, emphasizing any increase or decrease in profit.
+   Analyze the overall sales figures in comparison to the profit from the corresponding period in the previous year, emphasizing any increase or decrease in profit.
 
 4. #### Payment mode Comparison Analysis:
- Compares different payment mode preferred by customer
+   Compares different payment mode preferred by customer
 
 5. #### Total Sales Chart:
- Visualizes the total sales by the sub-categories of products, allowing for the identification of high-impact sub-categories.
+   Visualizes the total sales by the sub-categories of products, allowing for the identification of high-impact sub-categories.
  
 6. #### Sales by Segment and Region:
-  Examine the overall sales figures based on product category and geographic location, offering valuable perspectives on the distribution of sales among various categories and regions.
+   Examine the overall sales figures based on product category and geographic location, offering valuable perspectives on the distribution of sales among various categories and regions.
 
 
 
